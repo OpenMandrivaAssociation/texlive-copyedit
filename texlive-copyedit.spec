@@ -3,7 +3,7 @@ Version:	37928
 Release:	2
 Summary:	Copyediting support for LaTeX documents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/copyedit
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/copyedit
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/copyedit.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/copyedit.doc.r%{version}.tar.xz
